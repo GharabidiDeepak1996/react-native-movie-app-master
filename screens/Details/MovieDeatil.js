@@ -16,9 +16,7 @@ import { AppStatusbar } from "../../components";
 import { LinearGradient } from "expo-linear-gradient";
 import { AntDesign, Ionicons } from "@expo/vector-icons";
 import { truncate } from "../../utils";
-import { route } from "../../routes";
 import { API_KEY } from "@env";
-import axios from "axios";
 import { useNavigation } from "@react-navigation/native";
 
 const baseUrl = "https://api.themoviedb.org/3/movie";

@@ -11,8 +11,6 @@ import React from "react";
 import { AppStatusbar, ListingCard } from "../../components";
 import { Ionicons } from "@expo/vector-icons";
 import { useNavigation } from "@react-navigation/native";
-import useAuth from "../../hooks/useAuth";
-import axios from "axios";
 import { route } from "../../routes";
 
 const SarchScreen = () => {
