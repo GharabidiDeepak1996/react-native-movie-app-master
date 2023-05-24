@@ -1,0 +1,20 @@
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project /Users/appledeveloper/Desktop/react-native-movie-app-master/ios/reactnativemovieapp.xcodeproj -configuration Debug -scheme reactnativemovieapp -destination id=430E4DDD-B36C-4DD9-916D-AA9A3E3FE7B2
+
+User defaults from command line:
+    IDEPackageSupportUseBuiltinSCM = YES
+
+note: Using new build system
+note: Planning
+Analyze workspace
+
+Create build description
+Build description signature: 93c0d966b933e5a14a402df40a90da91
+Build description path: /Users/appledeveloper/Library/Developer/Xcode/DerivedData/reactnativemovieapp-cxxtwyxmqpthnfhjdghbjtqdgcfv/Build/Intermediates.noindex/XCBuildData/93c0d966b933e5a14a402df40a90da91-desc.xcbuild
+
+note: Build preparation complete
+note: Building targets in dependency order
+/Users/appledeveloper/Desktop/react-native-movie-app-master/ios/Pods/Target Support Files/Pods-reactnativemovieapp/Pods-reactnativemovieapp.debug.xcconfig:1:1: error: unable to open file (in target "reactnativemovieapp" in project "reactnativemovieapp")
+/Users/appledeveloper/Desktop/react-native-movie-app-master/ios/Pods/Target Support Files/Pods-reactnativemovieapp/Pods-reactnativemovieapp.debug.xcconfig:1:1: error: unable to open file (in target "reactnativemovieapp" in project "reactnativemovieapp")
+/Users/appledeveloper/Desktop/react-native-movie-app-master/ios/Pods/Target Support Files/Pods-reactnativemovieapp/Pods-reactnativemovieapp.debug.xcconfig:1:1: error: unable to open file (in target "reactnativemovieapp" in project "reactnativemovieapp")
+/Users/appledeveloper/Desktop/react-native-movie-app-master/ios/Pods/Target Support Files/Pods-reactnativemovieapp/Pods-reactnativemovieapp.debug.xcconfig:1:1: error: unable to open file (in target "reactnativemovieapp" in project "reactnativemovieapp")
