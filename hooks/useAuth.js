@@ -7,8 +7,10 @@ import React, {
   useCallback,
 } from "react";
 import { route } from "../routes";
-import axios from "axios";
 
+import axios from "axios";
+//deepak
+//declaration api context
 const AuthContext = createContext({});
 
 const wait = (timeout) => {
@@ -76,6 +78,7 @@ export const AuthProvider = ({ children }) => {
       refreshing,
     ]
   );
+
   return (
     <AuthContext.Provider value={memoedValue}>{children}</AuthContext.Provider>
   );
